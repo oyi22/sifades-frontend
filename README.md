@@ -34,15 +34,4 @@ dibangun menggunakan React + Vite + TypeScript.
 - class-variance-authority (CVA)
 
 ---
-
-##  Requirements (Wajib Install)
-
-Sebelum jalanin project, pastikan sudah install:
-
-### 1. Node.js
-- Node.js >= 18
-
-cek:
-```bash
-node -v
-npm -v
+ 
